@@ -7,5 +7,5 @@ export default function NewPostError({ error }) {
       <p>Unfortunately, something went wrong.</p>
       <p>{error.message}</p>
     </>
-  );
+  );  
 }
